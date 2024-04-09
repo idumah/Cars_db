@@ -1,0 +1,7 @@
+BMW M8:680:3.7:0:15.5
+BMW X6:249:8.6:0:9.7
+Mersedes-Benz E63:755:2.9:0:17.9
+Audi TT:104:11.5:0:14.5
+Jeep Wrangler:256:6.5:0:16.6
+Tesla Model 3:456:4.5:1:656
+Toyota Prius:145:7.5:2:4.5
